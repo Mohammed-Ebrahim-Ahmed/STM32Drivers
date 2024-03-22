@@ -1,0 +1,5 @@
+[02:27:34]:[Critical]: hello from error
+[02:27:34]:[Critical]: hello and shut up
+[02:27:34]:[Critical]: HELLO!
+[02:27:34]:[Critical]: do you hear me
+[02:27:34]:[Critical]: shut up
